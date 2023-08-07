@@ -20,5 +20,5 @@
   <img src="https://skillicons.dev/icons?i=astro,django,dotnet,emotion,jest,nestjs,nextjs,react,redux,svelte,tailwind,spring,styledcomponents&perline=10" />
 
   <h3>⚡️ Other ⚡️</h3>
-  <img src="https://skillicons.dev/icons?i=awsl,azure,gcp,apollo,cloudflare,docker,figma,firebase,git,github,githubactions,grafana,graphql,heroku,linux,md,mongodb,postgres,prometheus,vercel,vite,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,apollo,cloudflare,docker,figma,firebase,git,github,githubactions,grafana,graphql,heroku,linux,md,mongodb,postgres,prometheus,vercel,vite,vscode&perline=10" />
 </div>
