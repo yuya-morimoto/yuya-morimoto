@@ -1,17 +1,24 @@
-# yuya_morimoto
+<h1 align="center">🇯🇵🚀 yuya_morimoto 🚀🇯🇵</h1>
 
-<p align="left"> 
-  <a href="https://github.com/yuya-morimoto/yuya-morimoto/">
-    <img src="https://komarev.com/ghpvc/?username=developeeeer" alt="yuya-morimoto" />
-  </a>
-  <a href="https://github.com/yuya-morimoto">
-    <img height="20" src="https://img.shields.io/github/followers/yuya-morimoto?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuya-morimoto&row=2&column=8&theme=onedark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuya-morimoto&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuya-morimoto&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuya-morimoto&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuya-morimoto&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuya-morimoto&theme=github_dark&utcOffset=9"/>
+</div>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuya-morimoto&count_private=true&layout=compact&show_icons=true&theme=blue-green" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuya-morimoto&count_private=true&show_icons=true&theme=blue-green" />
-</p>
+<div align="center">
+  <h3>💘 Like 💘</h3>
+  <img src="https://skillicons.dev/icons?i=py,ts,django,react,svelte,docker,vscode&perline=10" />
+  
+  <h3>✨ Language ✨</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,java,swift,go&perline=10" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuya-morimoto)](https://github.com/ryo-ma/github-profile-trophy)
+  <h3>🌱 Library or Framework 🌱</h3>
+  <img src="https://skillicons.dev/icons?i=astro,django,dotnet,emotion,jest,nestjs,nextjs,react,redux,svelte,tailwind,spring,styledcomponents&perline=10" />
+
+  <h3>⚡️ Other ⚡️</h3>
+  <img src="https://skillicons.dev/icons?i=awsl,azure,gcp,apollo,cloudflare,docker,figma,firebase,git,github,githubactions,grafana,graphql,heroku,linux,md,mongodb,postgres,prometheus,vercel,vite,vscode&perline=10" />
+</div>
