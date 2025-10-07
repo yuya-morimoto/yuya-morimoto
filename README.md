@@ -1,4 +1,7 @@
-<h1 align="center">🇯🇵🚀 <a href="https://github.com/zero-hack-org">yuya_morimoto</a> 🚀🇯🇵</h1>
+<h1 align="center">
+  🇯🇵🚀<a href="https://github.com/zero-hack-org">yuya_morimoto</a> 🚀🇯🇵
+</h1>
+<p>暇なエンジニア</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuya-morimoto&row=2&column=8&theme=onedark"/>
@@ -10,16 +13,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuya-morimoto&theme=github_dark&utcOffset=9"/>
 </div>
 
-<div align="center">
-  <h3>💘 Like 💘</h3>
-  <img src="https://skillicons.dev/icons?i=py,ts,django,react,svelte,docker,vscode&perline=10" />
-  
-  <h3>✨ Language ✨</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,java,swift,go&perline=10" />
-
-  <h3>🌱 Library or Framework 🌱</h3>
-  <img src="https://skillicons.dev/icons?i=astro,django,dotnet,emotion,jest,nestjs,nextjs,react,redux,svelte,tailwind,spring,styledcomponents&perline=10" />
-
-  <h3>⚡️ Other ⚡️</h3>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,apollo,cloudflare,docker,figma,firebase,git,github,githubactions,grafana,graphql,heroku,linux,md,mongodb,postgres,prometheus,vercel,vite,vscode&perline=10" />
-</div>
