@@ -1,7 +1,6 @@
 <h1 align="center">
-  🇯🇵🚀<a href="https://github.com/zero-hack-org">yuya_morimoto</a> 🚀🇯🇵
+  🇯🇵🚀yuyaMorimoto 🚀🇯🇵
 </h1>
-<p　align="center">暇なエンジニア</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuya-morimoto&row=2&column=8&theme=onedark"/>
@@ -12,5 +11,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuya-morimoto&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuya-morimoto&theme=github_dark&utcOffset=9"/>
 </div>
+
 
 
